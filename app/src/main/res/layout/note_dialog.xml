@@ -28,6 +28,7 @@
         android:inputType="textCapSentences|textMultiLine"
         android:lines="4"
         android:textColorHint="@color/hint_enter_note"
-        android:textSize="@dimen/input_new_note" />
+        android:textSize="@dimen/input_new_note"
+        android:textColor="@color/note_list_text"/>
 
 </LinearLayout>
